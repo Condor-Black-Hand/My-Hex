@@ -1,2 +1,2 @@
 # Old-Hex
-以前我自己写的，AI比较lj
+以前我自己写的，AI比较lj。用Qt Creator。
